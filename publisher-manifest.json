@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2d70dad2fb36129e7ebd138a",
+  "owner": "whnvcvtrg",
+  "repo": "page-3fb397e1d0ced574bc58c284",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3fb397e1d0ced574bc58c284",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "66d77b2d50695369f7a012cf8892cbc75b33e7afd35ee85371d900a1bb42c5f3",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓提供专业机场订阅和VPN加速器服务，帮助您实现高速稳定网络体验。下载官方安卓客户端，享受一流加速效果。",
+          "AI_DESCRIPTION": "clashmi安卓提供专业机场订阅和VPN加速器服务，帮助您实现高速稳定网络体验。下载官方安卓客户端，享受一流加速效果。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background-color: #f5f5f5;\n            color: #333;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #7c3aed;\n            font-size: 2.8rem;\n            text-align: center;\n            margin-bottom: 20px;\n        }\n        h2 {\n            color: #7c3aed;\n            font-size: 1.8rem;\n            margin: 40px 0 20px;\n        }\n        h3 {\n            color: #7c3aed;\n            font-size: 1.4rem;\n            margin: 30px 0 15px;\n        }\n        p {\n            font-size: 1.1rem;\n            margin-bottom: 15px;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            padding: 25px;\n            margin-bottom: 20px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n            border: 2px solid #e5e5e5;\n        }\n        .featured {\n            border-color: #7c3aed;\n            position: relative;\n        }\n        .featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #7c3aed;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 8px 0;\n            font-size: 1rem;\n        }\n        .features li:before {\n            content: \"✓\";\n            color: #7c3aed;\n            margin-right: 8px;\n        }\n        details {\n            background: white;\n            border-radius: 8px;\n            margin-bottom: 15px;\n            padding: 15px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.2rem;\n            color: #7c3aed;\n        }\n        .config-steps {\n            display: flex;\n            flex-direction: column;\n            gap: 15px;\n        }\n        .step {\n            background: #f8f8f8;\n            padding: 15px;\n            border-radius: 8px;\n        }\n        .step-number {\n            background: #7c3aed;\n            color: white;\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            display: inline-flex;\n            align-items: center;\n            justify-content: center;\n            margin-right: 10px;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2.2rem;\n            }\n            .container {\n                padding: 15px;\n            }\n            .plan-card {\n                padding: 15px;\n            }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>clashmi安卓</h1>\n        <h2>专业VPN加速器，助力高速网络畅享</h2>\n        <p>clashmi安卓是一款专为Android用户打造的机场VPN加速器，提供稳定、快速的网络线路和便捷的订阅服务。无论您是个人用户还是企业团队，都能通过clashmi安卓获得卓越的加速体验。</p>\n        <p>我们致力于为您提供优质的节点池，确保每一次连接都流畅无阻。下载官方客户端，即刻开启您的加速之旅。</p>\n        <h2>配置流程</h2>\n        <p>以下是clashmi安卓的详细配置指南，帮助您快速上手：</p>\n        <div class=\"config-steps\">\n            <div class=\"step\">\n                <span class=\"step-number\">1</span>\n                <strong>下载客户端</strong><br>\n                访问官网下载clashmi安卓安卓客户端，安装后打开应用。\n            </div>\n            <div class=\"step\">\n                <span class=\"step-number\">2</span>\n                <strong>创建配置文件</strong><br>\n                在客户端中添加新配置文件，选择导入订阅链接。\n            </div>\n            <div class=\"step\">\n                <span class=\"step-number\">3</span>\n                <strong>选择节点</strong><br>\n                从节点池中选择合适的线路进行连接，享受加速效果。\n            </div>\n            <div class=\"step\">\n                <span class=\"step-number\">4</span>\n                <strong>完成设置</strong><br>\n                启用代理模式，配置完成，即可使用加速功能。\n            </div>\n        </div>\n        <h3>基础版</h3>\n        <div class=\"plan-card\">\n            <p>¥15/月 | 按年付仅需 ¥150/年</p>\n            <ul class=\"features\">\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n            </ul>\n        </div>\n        <h3>旗舰版</h3>\n        <div class=\"plan-card featured\">\n            <p>¥35/月 | 按年付仅需 ¥350/年</p>\n            <ul class=\"features\">\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n            </ul>\n        </div>\n        <h3>团队版</h3>\n        <div class=\"plan-card\">\n            <p>¥85/月 | 按年付仅需 ¥850/年</p>\n            <ul class=\"features\">\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n            </ul>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>clashmi安卓是什么？</summary>\n            <p>clashmi安卓是一款专业的VPN加速器，基于Clash协议，为Android设备提供高速稳定的网络加速服务，支持机场订阅和优质节点选择，帮助用户畅享流畅上网和流媒体解锁体验。</p>\n        </details>\n        <details>\n            <summary>如何下载clashmi安卓客户端？</summary>\n            <p>请访问官网，点击下载页面下载适用于Android的clashmi安卓客户端，安装后即可使用。</p>\n        </details>\n        <details>\n            <summary>基础版、旗舰版和团队版有何区别？</summary>\n            <p>基础版适合个人用户，提供基础流量和普通节点；旗舰版功能更全面，支持更多设备和游戏加速；团队版提供企业级服务，包括专属节点和管理支持。</p>\n        </details>\n        <details>\n            <summary>怎样配置clashmi安卓客户端？</summary>\n            <p>1. 下载并安装客户端；2. 打开应用创建新配置；3. 导入订阅链接；4. 选择并连接到合适节点；5. 完成即可享受加速。</p>\n        </details>\n        <details>\n            <summary>clashmi安卓支持哪些设备？</summary>\n            <p>clashmi安卓主要针对Android设备优化，支持iOS和Windows等其他平台通过兼容方式使用，但最佳体验在Android上。</p>\n        </details>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "19109fb6a598fa5080724aa0f8a2cbce8ae258e3251c0ea62b265d8e8ab82e5e",
+          "seo": {
+            "title": "clashmi安卓 机场 VPN 加速器 客户端下载 官网",
+            "keywords": "clashmi安卓, 机场, vpn加速器, 客户端下载, 机场订阅",
+            "description": "clashmi安卓提供专业机场订阅和VPN加速器服务，帮助您实现高速稳定网络体验。下载官方安卓客户端，享受一流加速效果。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "udwbea.cn",
+    "host": "p-a949ad6b1a.udwbea.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8edbba0902b565ff70cfbdf496f50b3b3fd937f706ca678982635b0ea98b8d0f",
+    "sitemap.xml": "dff7c136853d70016532448a6af7b324b59e29cbc3078905302b2829706b9f4a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e7ac642384b7c4ab09287be90ef94e3bd78ad44d37d56ff083307e6fdbe039a8",
+    "robots.txt": "ae42c1de1bc1f8a03fe18a04d00214a189c65ca63a8523c96d48ecbe8646b71d",
+    "fa859e7ca09ff9c3df68730a8770d465.txt": "d5b5a20c5c5ef2404ba55b37ce56f62b4785bc43757a0ccb0e45ff52086b0fba"
+  },
+  "revision": "aaff6109d68c15d354cb0809afb204455e517b3c8393679c3f2aadd5084b6627"
+}
